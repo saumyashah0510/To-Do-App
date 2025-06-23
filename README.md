@@ -21,4 +21,4 @@ A modern, full-stack To-Do List application built with:
 
 ## Demo
 
-[▶️ Click to watch demo](demo.mp4)
+
